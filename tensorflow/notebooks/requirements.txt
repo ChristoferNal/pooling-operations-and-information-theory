@@ -1,0 +1,20 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_tflow_select=2.1.0=gpu
+cudatoolkit=9.2=0
+cudnn=7.2.1=cuda9.2_0
+cupti=9.2.148=0
+cython=0.28.5=py36hf484d3e_0
+cytoolz=0.9.0.1=py36h14c3975_1
+keras-applications=1.0.6=py36_0
+keras-preprocessing=1.0.5=py36_0
+matplotlib=2.2.3=py36hb69df0a_0
+numpy=1.15.0=pypi_0
+numpydoc=0.8.0=py36_0
+python=3.6.6=hc3d631a_0
+scipy=1.2.1=py36h7c811a0_0
+tensorboard=1.11.0=py36hf484d3e_0
+tensorflow=1.11.0=gpu_py36h9c9050a_0
+tensorflow-base=1.11.0=gpu_py36had579c0_0
+tensorflow-gpu=1.11.0=h0d30ee6_0
